@@ -1,4 +1,14 @@
-## Hi there 👋
+## About me
+
+Hello! My name is **Andrés Contreras Santos**. 
+
+I hold a Bachelor's degree in Mathematics from the Universidad Complutense de Madrid, and I am currently pursuing a Master's degree in Statistical and Computational Information Processing, jointly coordinated by Universidad Complutense de Madrid and Universidad Politécnica de Madrid, with an expected graduation date in July 2026.
+
+At the same time, I work at the Biocomputing Unit of the Spanish National Center for Biotechnology (CNB-CSIC), where I develop image processing methods for cryo-electron microscopy.
+
+My interests are mainly centered around mathematics, especially in areas where analytical reasoning and computational methods intersect. I am particularly drawn to problems with a strong mathematical foundation and to the use of computation as a tool for scientific research.
+
+This profile contains a selection of personal, academic, and professional projects accross different areas of mathematics, programming, data analysis, and others.
 
 <!--
 **Truglut/Truglut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
