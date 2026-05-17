@@ -6,7 +6,7 @@ I hold a Bachelor's degree in Mathematics from the Universidad Complutense de Ma
 
 At the same time, I work at the Biocomputing Unit of the Spanish National Center for Biotechnology (CNB-CSIC), where I develop image processing methods for cryo-electron microscopy.
 
-My interests are mainly centered around mathematics, especially in areas where analytical reasoning and computational methods intersect. I am particularly drawn to problems with a strong mathematical foundation and to the use of computation as a tool for scientific research.
+My interests are mainly centered around mathematics and areas where analytical reasoning and computational methods intersect. I am particularly drawn to problems with a strong mathematical foundation and to the use of computation as a tool for scientific research.
 
 This profile contains a selection of personal, academic, and professional projects accross different areas of mathematics, programming, data analysis, and others.
 
